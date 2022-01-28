@@ -1,1 +1,1 @@
-# https://github.com/gwzxyb/template-.git
+https://gwzxyb.github.io/template/
